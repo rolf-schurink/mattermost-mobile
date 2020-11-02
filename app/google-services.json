@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31268478462",
+    "firebase_url": "https://vectorchat-mattermost.firebaseio.com",
+    "project_id": "vectorchat-mattermost",
+    "storage_bucket": "vectorchat-mattermost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31268478462:android:c61571b2f65c4ce72434af",
+        "android_client_info": {
+          "package_name": "com.sethala.vectorchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31268478462-ko1m4vqbv6ebq97cssvnsr5cr61fgurn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZBv6M4IASx7dmSufN57uE0V7VMgt7Khk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31268478462-ko1m4vqbv6ebq97cssvnsr5cr61fgurn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
