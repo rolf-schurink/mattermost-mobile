@@ -18,7 +18,8 @@
     "@rudderstack/rudder-sdk-react-native": "1.0.2",
     "@sentry/react-native": "1.7.2",
     "analytics-react-native": "1.2.0",
-    "commonmark": "github:mattermost/commonmark.js#f6ab98dede6ce4b4e7adea140ac77249bfb2d6ce",
+    "call-bind": "1.0.0",
+    "commonmark": "",
     "commonmark-react-renderer": "github:mattermost/commonmark-react-renderer#3a2ac19cab725ad28b170fdc1d397dddedcf87eb",
     "core-js": "3.6.5",
     "deep-equal": "2.0.3",
@@ -27,6 +28,7 @@
     "form-data": "3.0.0",
     "fuse.js": "6.4.1",
     "intl": "1.2.5",
+    "is-core-module": "2.0.0",
     "jail-monkey": "2.3.2",
     "mime-db": "1.44.0",
     "moment-timezone": "0.5.31",
@@ -88,7 +90,8 @@
     "serialize-error": "7.0.1",
     "shallow-equals": "1.0.0",
     "tinycolor2": "1.4.1",
-    "url-parse": "1.4.7"
+    "url-parse": "1.4.7",
+    "webpack": "5.3.2"
   },
   "devDependencies": {
     "@babel/cli": "7.10.5",
@@ -124,7 +127,7 @@
     "eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#070ce792d105482ffb2b27cfc0b7e78b3d20acee",
     "eslint-plugin-react": "7.20.6",
     "harmony-reflect": "1.6.1",
-    "husky": "4.2.5",
+    "husky": "4.3.0",
     "isomorphic-fetch": "2.2.1",
     "jest": "26.4.2",
     "jest-cli": "26.4.2",
